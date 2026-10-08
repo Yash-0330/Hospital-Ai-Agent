@@ -1,0 +1,11 @@
+[
+  { "id": 1, "name": "Dr. A. Sharma", "department": "Orthopedics", "specialty": "Joint and knee pain", "availability": "Mon-Wed 10am-2pm", "location": "Block B, Room 204" },
+  { "id": 2, "name": "Dr. B. Patel", "department": "Cardiology", "specialty": "Heart and blood pressure", "availability": "Tue-Thu 9am-1pm", "location": "Block A, Room 101" },
+  { "id": 3, "name": "Dr. C. Rao", "department": "General Medicine", "specialty": "General physician", "availability": "Daily 9am-5pm", "location": "Block A, Room 002" },
+  { "id": 4, "name": "Dr. D. Mehta", "department": "Dermatology", "specialty": "Skin and hair", "availability": "Mon-Fri 11am-4pm", "location": "Block C, Room 305" },
+  { "id": 5, "name": "Dr. E. Verma", "department": "Neurology", "specialty": "Headache and migraine", "availability": "Mon, Wed, Fri 10am-1pm", "location": "Block D, Room 401" },
+  { "id": 6, "name": "Dr. F. Khan", "department": "Gastroenterology", "specialty": "Stomach and liver", "availability": "Tue-Sat 9am-12pm", "location": "Block B, Room 110" },
+  { "id": 7, "name": "Dr. G. Iyer", "department": "Pediatrics", "specialty": "Child specialist", "availability": "Daily 8am-4pm", "location": "Block E, Room 201" },
+  { "id": 8, "name": "Dr. H. Singh", "department": "ENT", "specialty": "Ear, nose and throat", "availability": "Mon-Fri 10am-3pm", "location": "Block C, Room 210" },
+  { "id": 9, "name": "Dr. I. Bose", "department": "Ophthalmology", "specialty": "Eye care", "availability": "Mon-Thu 11am-4pm", "location": "Block C, Room 108" }
+]

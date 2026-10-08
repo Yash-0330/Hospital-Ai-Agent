@@ -1,0 +1,15 @@
+[
+  { "pattern": "chest pain", "message": "Possible cardiac emergency" },
+  { "pattern": "heart attack", "message": "Possible cardiac emergency" },
+  { "pattern": "shortness of breath", "message": "Breathing difficulty" },
+  { "pattern": "cannot breathe", "message": "Breathing difficulty" },
+  { "pattern": "slurred speech", "message": "Possible stroke" },
+  { "pattern": "face drooping", "message": "Possible stroke" },
+  { "pattern": "severe bleeding", "message": "Severe bleeding" },
+  { "pattern": "unconscious", "message": "Loss of consciousness" },
+  { "pattern": "fainted", "message": "Loss of consciousness" },
+  { "pattern": "suicidal", "message": "Mental health crisis" },
+  { "pattern": "want to die", "message": "Mental health crisis" },
+  { "pattern": "severe allergic", "message": "Anaphylaxis risk" },
+  { "pattern": "seizure", "message": "Neurological emergency" }
+]

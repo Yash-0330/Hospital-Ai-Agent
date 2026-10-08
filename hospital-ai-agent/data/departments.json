@@ -1,0 +1,12 @@
+[
+  { "name": "General Medicine", "keywords": ["fever","cold","cough","weakness","tired","body ache"], "description": "Common illnesses and general checkups" },
+  { "name": "Orthopedics", "keywords": ["knee","bone","joint","fracture","back pain","shoulder","sprain"], "description": "Bones, joints and muscles" },
+  { "name": "Dermatology", "keywords": ["skin","rash","itch","acne","hair loss","eczema"], "description": "Skin, hair and nails" },
+  { "name": "Cardiology", "keywords": ["heart","chest","palpitation","bp","blood pressure"], "description": "Heart and blood vessels" },
+  { "name": "Neurology", "keywords": ["headache","dizzy","seizure","migraine","numbness","memory"], "description": "Brain and nerves" },
+  { "name": "Gastroenterology", "keywords": ["stomach","vomit","diarrhea","constipation","acidity","liver"], "description": "Digestive system" },
+  { "name": "Pediatrics", "keywords": ["child","baby","infant","kid","vaccination"], "description": "Children's health" },
+  { "name": "ENT", "keywords": ["ear","nose","throat","sinus","hearing","tonsil"], "description": "Ear, nose and throat" },
+  { "name": "Ophthalmology", "keywords": ["eye","vision","blur"], "description": "Eye care" },
+  { "name": "Emergency Department", "keywords": ["emergency"], "description": "Immediate critical care" }
+]
